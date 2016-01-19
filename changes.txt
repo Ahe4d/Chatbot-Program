@@ -1,0 +1,14 @@
+v) 0.1.977a
+{
+   1: Updates a few more words
+   2: Fixed up the bot so you can't spam.
+}
+
+
+to do)
+{
+   1: Add more words.
+   2: Setup more design and script
+   3: Possible revamp of the bot for faster responses.
+   4: Community fix ups.
+}
